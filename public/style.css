@@ -1,0 +1,17 @@
+#left-side {
+  display: flex;
+  flex-direction: column;
+}
+
+#right-side {
+  margin-left:  50px;
+}
+
+#Carousel {
+  margin-bottom: 50px ;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+}
